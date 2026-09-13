@@ -6,29 +6,29 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: KNOWHERE
 
 
 ### Team Members
-- Team Lead: Akhila TJ - ASIET
-- Member 2: SRIHARI V - ASIET
+- Team Lead: SRIHARI V - ASIET
+- Member 2: AKHILA TJ - ASIET
 
 ### Project Description
-platform for useless products
+platform for pointless and senseless products
 
 ### The Problem (that doesn't exist)
-actually nothing
+where and how, people can get some crazy products
 
 ### The Solution (that nobody asked for)
-platform which lists pointless products
+OopsCart!
+Oopscart is the is the place, where people can find some crazy stuffs
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - html,CSS,Java
 - Antigravity,vercel
-- VS code
-
+  
 ### Implementation
 For Software:
 terminal
@@ -42,15 +42,14 @@ For Software:
 
 # Screenshots (Add at least 3)
 <img width="1280" height="640" alt="git (1)" src="Screenshot 2026-09-12 085019.png" />
-homepage
+is our homepage
 
 
 <img width="1280" height="640" alt="git (1)" src="Screenshot 2026-09-12 085237.png" />
-product list
-
-
+this is our product lists, but here is a catch if you click something you cannot see that product you'll get redirected to somewhere else
+and you guys defenitly try to add something to your cart, there is some surprise waiting for youuu
 <img width="1280" height="640" alt="git (1)" src="Screenshot 2026-09-12 085310.png" />
-warning message
+warning message for your forever greatest financial decision 
 
 
 ### Project Demo
